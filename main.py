@@ -1,4 +1,5 @@
 print('Nombre: Carlos Daniel Gómez Aguilar, Carné: 1506323.')
+
 import os
 
 mi_ubicacion = os.getcwd()
